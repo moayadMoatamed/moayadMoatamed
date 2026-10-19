@@ -5,7 +5,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moayadMoatamed&label=Profile%20views&color=a78bfa&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/moayad-moatamed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Eskişehir-Türkiye-E30A17?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Giza-Egypt-CE1126?style=flat&logo=googlemaps&logoColor=white" />
+  <a href="https://askpimo.com"><img src="https://img.shields.io/badge/Building-Pimo-A78BFA?style=flat" /></a>
 </p>
 
 ---
@@ -14,14 +15,16 @@
 
 ```yaml
 name: Moayad
-education: Eskişehir Technical University (ESTÜ) — Computer Engineering
 focus:
   - Full-Stack Development
   - Generative AI Engineering
   - Multi-Agent Reasoning Systems
+education: Eskişehir Technical University (ESTÜ) — B.Sc. Computer Engineering, 2025
 currently_building:
-  - Lexora    # Multi-agent legal reasoning for Turkish law
-  - Orchanium # Multi-agent retrosynthesis engine
+  - Pimo      # An animated AI tutor who teaches on your screen (askpimo.com)
+previously:
+  - Lexora    # GraphRAG legal tutor for Turkish law students (2025, closed)
+  - Orchanium # Retrosynthesis planning over a chemistry knowledge graph
 philosophy: "Evidence-based reasoning, verified by execution."
 ```
 
@@ -31,20 +34,33 @@ philosophy: "Evidence-based reasoning, verified by execution."
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>⚖️ Lexora</h3>
-      <p><b>Founder & Architect</b></p>
-      <p>A multi-agent legal reasoning system built for Turkish law students and professionals. Modular monolith architecture, ingesting primary legislation and high court sources for grounded legal analysis.</p>
+    <td colspan="2" valign="top">
+      <h3>✏️ <a href="https://askpimo.com">Pimo</a></h3>
+      <p><b>Founder · Aug 2026 – present</b></p>
+      <p>An AI tutor in the form of a live animated character. Pimo reads a student's question from their screen or a photo, then teaches it on his own whiteboard: writing each step by hand, drawing diagrams and explaining out loud. Every calculation is computed in code (SymPy) before he writes it. Runs as a Chrome extension and a web app. Source is private.</p>
       <p>
         <img src="https://img.shields.io/badge/Multi--Agent-A78BFA?style=flat" />
+        <img src="https://img.shields.io/badge/Real--time_Animation-0EA5E9?style=flat" />
+        <img src="https://img.shields.io/badge/Verified_Math-10B981?style=flat" />
+        <img src="https://img.shields.io/badge/Chrome_Extension-F59E0B?style=flat" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚖️ Lexora</h3>
+      <p><b>Founding Engineer · Feb – Nov 2025</b></p>
+      <p>A legal tutor for Turkish law students that answered questions from their textbooks and linked each answer to its source passage. A structure-preserving ingestion pipeline and a Neo4j knowledge graph let one query retrieve only the relevant passages (19 of 20 test questions answered correctly). Closed when we couldn't secure rights to the core textbooks. Source is private.</p>
+      <p>
         <img src="https://img.shields.io/badge/GraphRAG-7C3AED?style=flat" />
+        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat" />
         <img src="https://img.shields.io/badge/Legal_AI-1F2937?style=flat" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧪 Orchanium</h3>
-      <p><b>Architect</b></p>
-      <p>A multi-agent reasoning engine for organic chemistry retrosynthesis. Combines GraphRAG, chemical knowledge graphs, and automated verification loops via secure code-execution harnesses.</p>
+      <h3>🧪 <a href="https://github.com/moayadMoatamed/Orchanium">Orchanium</a></h3>
+      <p><b>Builder · Jan – Mar 2026</b></p>
+      <p>Retrosynthesis planning for pharmacy PhD students, built on a chemistry knowledge graph. A generator–critic loop where six deterministic validators reject any step the model proposes that breaks a chemistry rule.</p>
       <p>
         <img src="https://img.shields.io/badge/Retrosynthesis-10B981?style=flat" />
         <img src="https://img.shields.io/badge/Knowledge_Graph-F59E0B?style=flat" />
@@ -77,6 +93,8 @@ philosophy: "Evidence-based reasoning, verified by execution."
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 #### 🤖 Generative AI & Agentic Systems
@@ -88,6 +106,13 @@ philosophy: "Evidence-based reasoning, verified by execution."
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Together_AI-0F6FFF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+
+#### 🎬 Animation
+<p>
+  <img src="https://img.shields.io/badge/Rive-1D1D1D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Toon_Boom_Harmony-6E3FF3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Animate-FF0000?style=for-the-badge&logoColor=white" />
 </p>
 
 #### 🧩 AI Engineering Disciplines
